@@ -24,13 +24,14 @@ All code and files rated to this project you can find in the repository:
 
 ## Installation Instructions
 
-   1. Download ZIP File according to Operating System
+1. Download ZIP File according to Operating System
         * **MACOS** [Download MacOs Distribution](https://github.com/claudiafalcon/logisticDataScienceAlgoritm/blob/main/dist_macos/assignShipmentToDrivers.zip "Download MACOS") 
         * **WINDOWS** [Download Windows Distribution](https://github.com/claudiafalcon/logisticDataScienceAlgoritm/blob/main/dist_windows/assignShipmentToDrivers.zip "Download Windows") 
-        * **LINUX(UBUTU)** [Download Linux Distribution](https://github.com/claudiafalcon/logisticDataScienceAlgoritm/blob/main/dist_linux/assignShipmentToDrivers.zip "Download Linux")
-    2. Unzip File in your preference dir
-    3. Go to directory _assignShipmentToDrivers_.
-    4. Run script assignShipmentToDrivers with extension _so_ or _exe_ according SO as Usage section describes.
+        * **LINUX(UBUTU)** [Download Linux Distribution](https://github.com/claudiafalcon/logisticDataScienceAlgoritm/blob/main/dist_linux/assignShipmentToDrivers.zip "Download Linux").
+
+2. Unzip File in your preference dir.
+3. Go to directory _assignShipmentToDrivers_.
+4. Run script assignShipmentToDrivers with extension _so_.or _exe_ according SO as Usage section describes.
 
 ***
 
