@@ -31,7 +31,7 @@ All code and files rated to this project you can find in the repository:
 
 2. Unzip File in your preference dir.
 3. Go to directory _assignShipmentToDrivers_.
-4. Run script assignShipmentToDrivers with extension _so_.or _exe_ according SO as Usage section describes.
+4. Run script _assignShipmentToDrivers_ with extension _so_  or _exe_ according SO as Usage section describes.
 
 ***
 
